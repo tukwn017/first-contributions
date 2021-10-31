@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body background= italy.jpg>
+<h3> This is an image </h3>
+<img src="C:\Users\acer\Desktop italy.jpg" width="400" height="500">
+<h4> if the image is not visible then view again with the same source </h4>
+</body>
+</html>
