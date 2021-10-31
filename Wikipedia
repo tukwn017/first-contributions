@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+
+ <head>
+
+ <title>HTML Image as link</title>
+
+ </head>
+
+ <body>
+
+ <p>Click the following image</p>
+
+ <a href = "https://www.wikipedia.org/"> 
+
+ <img src = https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wikipedia-
+
+logo-v2-en.svg/250px-Wikipedia-logo-v2-en.svg.png alt ="Wikepedia"> 
+
+ </a>
+
+ </body>
+
+</html>
