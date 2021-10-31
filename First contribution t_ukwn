@@ -1,0 +1,145 @@
+<html>
+
+<head>
+
+ <title>time table</title>
+
+</head>
+
+<body>
+
+<h1><center>SCHOOL TIME TABLE</h1>
+
+<table border="2" cellspacing="3" align="center">
+
+<tr> 
+
+<td align="center">
+
+<td>8:00-8:45
+
+<td>8:46-9:31
+
+<td>9:32-10:17
+
+<td>10:18-11:03
+
+<td>11:04-11:49
+
+<td>11:50-12:35
+
+<td>12:36-1:21
+
+<td>1:22-2:07
+
+</tr>
+
+<tr>
+
+<td align="center">MONDAY
+
+<td align="center">---<td align="center">Maths<br>
+
+<td align="center">English<br>
+
+<td align="center">Physics<br>
+
+<td rowspan="6" align="center">L<br>U<br>N<br>C<br>H
+
+<td rowspan="2" align="center">Computer Science<br>
+
+<td rowspan="2" align="center">Chemistry<br>
+
+<td align="center">General Studies
+
+</tr>
+
+<tr>
+
+<td align="center">TUESDAY
+
+<td align="center">Physics<br>
+
+<td align="center">Outdoor hobby<br>
+
+<td align="center">Maths<br>
+
+<td align="center">English<br>
+
+<td align="center">library
+
+</tr>
+
+<tr>
+
+<td align="center">WEDNESDAY
+
+<td align="center">English<br>
+
+<td align="center">Chemistry<BR>
+
+<td align="center">Indoor hobby<br>
+
+<td align="center">Maths<br>
+
+<td align="center">Physics<br>
+
+<td colspan="2" align="center">General Studies
+
+</tr>
+
+<tr>
+
+<td align="center">THURSDAY
+
+<td align="center">Chemistry Lab<br>
+
+<td rowspan="2" align="center">English<br>
+
+<td align="center">Physics lab<BR>
+
+<td align="center">---
+
+<td rowspan="2" align="center">Computer Science Lab<br>
+
+<td align="center">Free period<br>
+
+<td align="center">library
+
+</tr>
+
+<tr>
+
+<td align="center">FRIDAY
+
+<td align="center">Physics lab<br>
+
+<td align="center">Chemistry lab<br>
+
+<td align="center">---
+
+<td align="center">Maths<br>
+
+<td align="center">Outdoor hobby
+
+</tr>
+
+<tr>
+
+<td align="center">SATURDAY
+
+<td align="center">Indoor hobby<br>
+
+<td align="center">seminar
+
+<td align="center">Maths<br>
+
+<td align="center">English<br>
+
+<td colspan="3" align="center">Outdoor hobby
+
+</tr>
+
+</body>
+
+</html>
